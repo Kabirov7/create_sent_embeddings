@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="goszakup_dev@postgresgoszakup.postgres.database.azure.com" uuid="767c0567-7f10-43a2-8c00-9c6558bc56e7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://postgresgoszakup.postgres.database.azure.com:5432/goszakup_dev</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="comments" uuid="667599be-6b17-42cc-bebe-e9c85e776c72">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/comments</jdbc-url>
+    </data-source>
+  </component>
+</project>
